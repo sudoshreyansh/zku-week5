@@ -1,0 +1,9 @@
+{
+  "name": "zku-week5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "keccak256-circom": "git+https://github.com/vocdoni/keccak256-circom"
+  }
+}
